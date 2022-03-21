@@ -15,8 +15,11 @@ Design: [Skyman](https://media.altphotos.com/cache/images/2017/07/05/07/1504/sky
 
 ## Project features
 
--   Github pages
--   
+-   Github pages (multi-page)
+-   HTML form
+-   CSS background images
+-   CSS position absolute
+-   CSS blur effect
 
 ## Authors
 
