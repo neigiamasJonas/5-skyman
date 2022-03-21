@@ -1,0 +1,13 @@
+{
+  "name": "5-skyman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=3000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["class, when one changes, other changes as well, colors, element positioning, password"],
+  "author": "Povilas",
+  "license": "ISC"
+}
