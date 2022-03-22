@@ -11,7 +11,7 @@ This project is for **educational** porpuses only.
 
 Site published at: https://neigiamasjonas.github.io/5-skyman/
 
-Design: [Skyman](https://media.altphotos.com/cache/images/2017/07/05/07/1504/sky-stars-silhouette.jpg)
+Design: [Skyman](https://cdn.discordapp.com/attachments/850245533838868480/850246368214908970/day1dr.png)
 
 ## Project features
 
