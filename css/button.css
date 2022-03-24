@@ -7,10 +7,17 @@
     border-radius: 20px;
     border-color: #22273b;
     color: #fff;
-    background-color: #22273b;
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, 
+    rgba(2,0,36,1) 14%, 
+    rgba(34,39,48,1) 66%, 
+    rgba(0,212,255,1) 100%);
     cursor: pointer;
 }
 .btn:hover {
-    color: #22273b;
-    background-color: #fff;
+    cbackground: rgb(2,0,36);
+    background: radial-gradient(circle, 
+    rgba(2,0,36,1) 8%, 
+    rgba(34,39,48,1) 20%, 
+    rgba(0,212,255,1) 100%);
 }
