@@ -26,6 +26,9 @@
     padding-top: 7px;
     padding-bottom: 7px;
 }
+.form > .form-row > .input:focus {
+    outline: 1px dotted black;
+}
 .form span {
     line-height: 40px;
     margin-left: 20px;
